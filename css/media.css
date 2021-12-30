@@ -396,6 +396,8 @@
     .modal-dialog {
         max-width: 300px !important;
         margin: auto;
+        margin-top: 50px !important;
+        
     }
    .section3__row {
        margin: auto;
