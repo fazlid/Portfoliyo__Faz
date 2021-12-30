@@ -181,6 +181,7 @@
     }
 
     .section3 {
+        margin: auto;
         height: 98% !important;
     }
 
@@ -380,7 +381,7 @@
 }
 
 .AbountUs__section1-btn2 {
-    margin-left: 20px !important;
+    margin-left: 0px !important;
     margin-top: 20px !important;
 }
 
@@ -391,14 +392,24 @@
 }
 }
 
-@media (max-width: 350px) {
-    .AbountUs__section1-btn2 {
-        margin-left: 0px !important;
-        margin-top: 20px !important;
+@media (max-width: 576px) {
+    .modal-dialog {
+        max-width: 300px !important;
+        margin: auto;
     }
+   .section3__row {
+       margin: auto;
+   }
+}
+
+@media (max-width: 350px) {
+    
+
+    
 
     .AbountUs__info {
         margin: auto;
+        
     }
 
 }
