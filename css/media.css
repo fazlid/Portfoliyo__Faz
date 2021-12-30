@@ -1,0 +1,404 @@
+
+@media (max-width: 1400px) {
+    .navbar-nav{
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .section4 {
+        margin-top: 1123px !important; 
+    }
+
+    .Section4__img2 {
+        right: 90px !important;
+    }
+
+   
+}
+
+@media (max-width: 1245px) {
+    .Section4__img2 {
+        right: -30px !important;
+    }
+
+   
+
+}
+
+@media (max-width: 1200px) {
+    .click__button {
+          margin-left: -20px !important;
+    }
+}
+
+@media (max-width: 1000px) {
+    .navbar-nav{
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .section4 {
+        margin-top: 1100px !important; 
+    }
+
+    .section3 {
+        margin-top: 158px !important;
+    }
+
+    .section3__banner-m {
+            margin-top: 980px !important;
+    }
+
+    .section3__row {
+        max-width: 345px !important;
+    }
+
+    .Section4__img2 {
+       
+       display: none;
+    }
+
+    .container-AbountUs {
+        padding-left: 25px !important;
+        padding-top: 20px !important;
+    }
+   
+    .section__AbountUs-title {
+        padding-top: 10px !important;
+        font-size: 40px !important;
+        margin: auto;
+    }
+    .section__AbountUs-text {
+        padding-top: 20px !important;
+        font-size: 15px !important;
+        margin: auto;
+    }
+
+    .section__AbountUs-text2 {
+        padding-top: 10px !important;
+        font-size: 15px !important;
+        margin-left: 80px;
+    }
+
+    .AbountUs__info {
+        margin-top: -5px !important;
+        margin-left: 15px;
+    }
+
+    .AbountUs__content  {
+        max-width: 302px !important;
+    }
+
+    .AbountUs__info-text {
+        font-size: 15px !important;
+    }
+
+    .AbountUs__content {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 60px !important;
+    }
+
+    .AbountUs__section1-btn2 {
+        margin-left: 10px !important;
+        margin-top: -1px !important;
+    }
+}
+
+
+
+
+@media (max-width: 800px) {
+
+    .section1 {
+       height: 689px !important;
+    }
+
+    .section2__title-m {
+        margin-left: 0px !important;
+    }
+
+    .section2-content {
+        padding-top: 39px !important;
+    }
+
+    .section3__banner-m {
+        margin-right: 0px !important;
+    }
+    .section3__banner {
+        max-width: 280px !important;
+        font-size: 40px !important;
+        padding-left: 20px !important;
+    }
+
+
+    .nav__number {
+        font-size: 15px; 
+    }
+
+    .section1__text {
+        font-size: 15px;
+    }
+    .section1__title {
+        max-width: 280px;
+        font-size: 35px;
+        margin-top: 40px;
+
+      
+    }
+
+    .section2__title  {
+        font-size: 29px;
+    }
+
+    .section4__title {
+        font-size: 38px !important;
+    }
+
+
+    .Section5__banner-title {
+        font-size: 22px !important;
+    }
+
+    .Section5__banner {
+        clip-path: none !important;
+    }
+    
+    .Section5__banner {
+        margin-top: -80px !important;
+    }
+
+    .section5__title {
+        font-size: 34px !important;
+    }
+
+    .section2 {
+        height: 98% !important;
+    }
+
+    .section3 {
+        height: 98% !important;
+    }
+
+    .section3__row {
+        max-width: 296px !important;
+    }
+    
+    .footer {
+        height: 450px !important;
+        background: -moz-linear-gradient(top, white 50%, #3C54FF 50%) !important;
+        background: -webkit-linear-gradient(top, white 50%, #3C54FF 50%) !important;
+        background: linear-gradient(to bottom, white 50%, #3C54FF 50%) !important;
+    }
+
+    .Reg__title-m {
+        margin-left: -13px !important;
+    }  
+
+    .Reg__input {
+        width: 260px !important;
+        font-size: 14px !important;
+    }
+
+    .Reg__section2 {
+       width: 100%;
+       height: 98% !important; 
+    }
+
+    .Reg__form {
+        padding-left: 150px;
+    }
+
+    .modal__input {
+        width: 261px !important;
+        padding-left: 13px !important;
+        margin-left: 8px !important;
+        font-size: 15px;      
+    }
+
+    .modal__title {
+        padding-left: 6px;
+    }
+
+    .modal-footer {
+        margin: 0px !important;
+    }
+
+    .modal-title {
+        font-size: 26px !important;
+    }
+
+    .modal-body {
+       margin: 0 !important;
+    }
+
+    .section4 {
+        margin-top: 20px ; 
+    }
+    
+    .Section4__img2 {
+        display: none !important;
+    }
+    
+    .section3 {
+        margin-top: 158px ;
+    }
+    
+    .section3__banner-m {
+            margin-top: 20px !important;
+    }
+    .section4 {
+        margin-top: 20px !important; 
+    }
+    
+    
+    .section3 {
+        margin-top: 158px !important;
+    }
+    
+    .section3__banner-m {
+            margin-top: 20px !important;
+    }
+
+    .section__AbountUs-title {
+        padding-top: 10px !important;
+        font-size: 35px !important;
+    }
+    .section__AbountUs-text {
+        padding-top: 20px !important;
+        font-size: 15px !important;
+    }
+
+    .section__AbountUs-text2 {
+        font-size: 15px !important;
+    }
+
+    .AbountUs__section1-title {
+        margin-top: 20px;
+        font-size: 27px;
+    }
+
+    .AbountUs__section1-text {
+        margin-top: 20px;
+        font-size: 16px;
+    }
+    
+    .AbountUs__img1 {
+        max-width: 164%;
+        height: 55px;
+        margin-top: 4px;
+        margin-left: 8px;
+    }
+       
+
+    .AbountUs__img2 {
+        max-width: 22px !important;
+        height: 22px !important;
+        margin-top: 9px;
+        margin-left: -13px !important;
+    }
+
+    .AbountUs__img3 {
+        max-width: 45px !important;
+        height: 45px !important; 
+        
+    }
+
+    .AbountUs__img4 {
+        max-width: 45px !important;
+        height: 45px !important; 
+    }
+    
+    .AbountUs__section1-img1 {
+        max-width: 63px !important;
+        height: 63px !important;
+        margin-left: 7px ;
+        margin-top: 0px;
+    }
+
+    .AbountUs__section1-img2 {
+        max-width: 20px !important;
+        height: 20px !important; 
+        margin-left: -4px;
+        margin-top: -17px;
+        
+    }
+
+    .AbountUs__section1-img3 {
+        margin-left: 8px;
+    }
+    
+    
+    .AbountUs__section1-icontext {
+        max-width: 200px;
+        font-size: 16px !important;
+
+    }
+
+    .AbountUs__section2-title {
+        font-size: 28px;
+        margin-top: 20px;
+    }
+
+    .AbountUs__section2-text1 {
+        font-size: 18px;
+        margin-top: 8px;
+    }
+
+    .AbountUs-row {
+        margin: auto;
+    }
+
+    .section__AbountUs-text2 {
+        padding-top: 10px !important;
+        font-size: 15px !important;
+        margin-left: 0px;
+    }
+
+    
+
+}
+    
+  
+
+
+@media (max-width: 576px) {
+    .modal-dialog {
+        max-width: 300px !important;
+        margin: 0.75rem auto;
+        margin-right: 20px;
+} 
+
+.AbountUs__content {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px !important;
+}
+
+.AbountUs__section1-btn2 {
+    margin-left: 20px !important;
+    margin-top: 20px !important;
+}
+
+.section__AbountUs-text2 {
+    padding-top: 10px !important;
+    font-size: 15px !important;
+    margin-left: 0px;
+}
+}
+
+@media (max-width: 350px) {
+    .AbountUs__section1-btn2 {
+        margin-left: 0px !important;
+        margin-top: 20px !important;
+    }
+
+    .AbountUs__info {
+        margin: auto;
+    }
+
+}
