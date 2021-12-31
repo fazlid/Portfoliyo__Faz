@@ -168,7 +168,7 @@
     
     .Section5__banner {
         margin-top: -80px !important;
-        max-width: 320px;
+        max-width: 378px;
     }
 
     .section5__title {
@@ -182,6 +182,7 @@
     .section3 {
         margin: auto;
         height: 98% !important;
+        margin-top: 158px ;
     }
 
     .section3__row {
@@ -245,17 +246,11 @@
         margin-top: 158px ;
     }
     
-    .section3__banner-m {
-            margin-top: 20px !important;
-    }
+  
     .section4 {
         margin-top: 20px !important; 
     }
-    
-    
-    .section3 {
-        margin-top: 158px !important;
-    }
+
     
     .section3__banner-m {
             margin-top: 20px !important;
@@ -433,6 +428,15 @@
 
     .section3__row {
         max-width: 278px !important;
+    }
+
+    .Section5__banner {
+        margin-top: -80px !important;
+        max-width: 306px;
+    }
+
+    .section3 {
+      
     }
 
 }

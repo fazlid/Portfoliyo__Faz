@@ -357,7 +357,7 @@ body {
 .section4 {
    background: #FFFFFF !important;
     box-shadow: 0px 4px 38px rgba(0, 0, 0, 0.01) !important; 
-    min-height: 700px;
+    height: 700px;
     margin-top: 112px;
     
 }
@@ -868,7 +868,7 @@ body {
 }
 
 .modal__input {
-    max-width: 405px;
+    width: 405px;
     height: 44px;
     border: 1px solid #4E64FF;
     box-sizing: border-box;
