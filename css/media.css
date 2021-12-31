@@ -23,14 +23,18 @@
         right: -30px !important;
     }
 
-   
-
 }
 
 @media (max-width: 1200px) {
     .click__button {
           margin-left: -20px !important;
     }
+
+    .section3-banner-clip {
+        margin-left: 0px !important;
+    }
+
+    
 }
 
 @media (max-width: 1000px) {
@@ -105,6 +109,8 @@
         margin-left: 10px !important;
         margin-top: -1px !important;
     }
+
+    
 }
 
 
@@ -126,6 +132,11 @@
 
     .section3__banner-m {
         margin-right: 0px !important;
+        margin-top: 20px !important;
+    }
+
+    .section3-banner-clip {
+        margin-left: 12px !important;
     }
     .section3__banner {
         max-width: 280px !important;
@@ -251,10 +262,6 @@
         margin-top: 20px !important; 
     }
 
-    
-    .section3__banner-m {
-            margin-top: 20px !important;
-    }
 
     .section__AbountUs-title {
         padding-top: 10px !important;
@@ -378,7 +385,7 @@
        margin: auto;
    }
    .section3__title {
-    font-size: 20px !important;
+    font-size: 26px !important;
 }
 
 .section3__text {
@@ -406,6 +413,14 @@
     max-width: 327px !important;
 }
 
+.section3__banner {
+    font-size: 33px !important;
+
+}
+
+.section3-banner-clip {
+    margin-left: 12px !important;
+}
 
 }
 
@@ -413,11 +428,11 @@
 @media (max-width: 350px) {
     
     .section3__title {
-        font-size: 20px !important;
+        font-size: 22px !important;
     }
     
     .section3__text {
-        font-size: 15px !important;
+        font-size: 16px !important;
     }
     
 
@@ -435,8 +450,5 @@
         max-width: 306px;
     }
 
-    .section3 {
-      
-    }
 
 }

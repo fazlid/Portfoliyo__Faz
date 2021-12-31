@@ -269,6 +269,7 @@ body {
     clip-path: polygon(4% 0, 100% 0%, 100% 100%, 0 100%);
     background: linear-gradient(87.49deg, #3C54FF 4.13%, #8291FF 96.65%);
     margin-top: 112px;
+    margin-left: 250px !important;
 }
 
 .section3__banner {
@@ -317,7 +318,7 @@ body {
 }
 
 .section3__btn {
-    max-width: 276px !important;
+    width: 276px !important;
     height: 65px;
     background: rgba(113, 193, 112, 1) !important;
     color: white !important;
