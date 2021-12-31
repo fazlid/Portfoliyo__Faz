@@ -211,7 +211,7 @@
 
 
     .modal__input {
-        max-width: 261px !important;
+        width: 261px !important;
         padding-left: 13px !important;
         margin-left: 8px !important;
         font-size: 15px;      
@@ -337,23 +337,27 @@
     }
 
     .AbountUs__section2-title {
-        font-size: 28px;
+        font-size: 27px;
         margin-top: 20px;
     }
 
     .AbountUs__section2-text1 {
-        font-size: 18px;
+        font-size: 15px;
         margin-top: 8px;
+    }
+    .AbountUs__section2-text2 {
+        font-size: 14px;
     }
 
     .AbountUs-row {
         margin: auto;
+        margin-top: 0 !important;
     }
 
     .section__AbountUs-text2 {
         padding-top: 10px !important;
         font-size: 15px !important;
-        margin-left: 0px;
+        margin-left: 13px;
     }
 
     

@@ -553,7 +553,7 @@ body {
 }
 
 .Reg__input {
-   max-width: 405px;
+    width: 405px !important;
     height: 44px;
     border: 1px solid #4E64FF;
     box-sizing: border-box;
@@ -761,7 +761,7 @@ body {
 
 .AbountUs__section2 {
     max-width: 99%;
-    min-height: 500px !important;
+    height: 500px !important;
     background: #FFFFFF !important;
     box-shadow: 0px 4px 38px rgba(0, 0, 0, 0.01) !important;
     border-radius: 5px;
@@ -898,11 +898,12 @@ body {
 }
 
 .modal__btn {
-    max-width: 276px;
+    width: 276px;
     height: 61px;
     color: white !important;
     background: #71C170 !important;
     border: 2px solid #71C170 !important;
+  
 }
 
 .modal__btn:hover {
