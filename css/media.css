@@ -90,18 +90,16 @@
     }
 
     .AbountUs__content  {
-        max-width: 302px !important;
-    }
-
-    .AbountUs__info-text {
-        font-size: 15px !important;
-    }
-
-    .AbountUs__content {
+        max-width: 270px !important; 
         margin-left: auto;
         margin-right: auto;
         margin-top: 60px !important;
     }
+
+    .AbountUs__info-text {
+        font-size: 14px !important;
+    }
+
 
     .AbountUs__section1-btn2 {
         margin-left: 10px !important;
@@ -170,6 +168,7 @@
     
     .Section5__banner {
         margin-top: -80px !important;
+        max-width: 320px;
     }
 
     .section5__title {
@@ -186,7 +185,7 @@
     }
 
     .section3__row {
-        max-width: 296px !important;
+        max-width: 265px !important;
     }
     
     .footer {
@@ -206,16 +205,13 @@
     }
 
     .Reg__section2 {
-       width: 100%;
+       max-width: 100%;
        height: 98% !important; 
     }
 
-    .Reg__form {
-        padding-left: 150px;
-    }
 
     .modal__input {
-        width: 261px !important;
+        max-width: 261px !important;
         padding-left: 13px !important;
         margin-left: 8px !important;
         font-size: 15px;      
@@ -311,12 +307,12 @@
 
     .AbountUs__img4 {
         max-width: 45px !important;
-        height: 45px !important; 
+        min-height: 45px !important; 
     }
     
     .AbountUs__section1-img1 {
         max-width: 63px !important;
-        height: 63px !important;
+        min-height: 63px !important;
         margin-left: 7px ;
         margin-top: 0px;
     }
@@ -370,9 +366,25 @@
 @media (max-width: 576px) {
     .modal-dialog {
         max-width: 300px !important;
-        margin: 0.75rem auto;
-        margin-right: 20px;
-} 
+        margin: auto;
+        margin-top: 50px !important;
+        
+    }
+
+    .modal-backdrop {
+        min-height: 100% !important;
+    } 
+
+   .section3__row {
+       margin: auto;
+   }
+   .section3__title {
+    font-size: 20px !important;
+}
+
+.section3__text {
+    font-size: 15px !important;
+}
 
 .AbountUs__content {
     margin-left: auto;
@@ -390,28 +402,33 @@
     font-size: 15px !important;
     margin-left: 0px;
 }
+
+.section3__row {
+    max-width: 327px !important;
 }
 
-@media (max-width: 576px) {
-    .modal-dialog {
-        max-width: 300px !important;
-        margin: auto;
-        margin-top: 50px !important;
-        
-    }
-   .section3__row {
-       margin: auto;
-   }
+
 }
+
 
 @media (max-width: 350px) {
     
-
+    .section3__title {
+        font-size: 20px !important;
+    }
+    
+    .section3__text {
+        font-size: 15px !important;
+    }
     
 
     .AbountUs__info {
         margin: auto;
         
+    }
+
+    .section3__row {
+        max-width: 278px !important;
     }
 
 }
