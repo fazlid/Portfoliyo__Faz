@@ -265,11 +265,12 @@ body {
 }
 
 .section3-banner-clip {
+    width: 87%;
     height: 158px;
     clip-path: polygon(4% 0, 100% 0%, 100% 100%, 0 100%);
     background: linear-gradient(87.49deg, #3C54FF 4.13%, #8291FF 96.65%);
     margin-top: 112px;
-    margin-left: 250px !important;
+    margin-left: 280px ;
 }
 
 .section3__banner {
